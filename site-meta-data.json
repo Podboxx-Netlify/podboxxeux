@@ -1,0 +1,18 @@
+{
+  "title": "PodBoxx",
+  "siteUrl": "https://delog-w3layouts.netlify.com/",
+  "description": "Your New Webiste",
+  "twitter": "null",
+  "facebook": "null",
+  "youtube": "null",
+  "spotify": "null",
+  "apple": "null",
+  "google": "null",
+  "linkedin": "null",
+  "imageHeader" : "https://podboxx-production.s3.amazonaws.com/images/header_blog.png",
+
+  "home": {
+    "title": "PodBoxx",
+    "description": "Your New Website"
+  }
+}
